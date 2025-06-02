@@ -314,3 +314,4 @@ function createAlertChart(alerts) {
         }
     });
 }
+

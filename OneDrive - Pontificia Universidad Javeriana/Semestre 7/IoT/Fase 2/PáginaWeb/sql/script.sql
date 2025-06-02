@@ -120,3 +120,4 @@ INSERT INTO rutas (origen_id, destino_id, conductor_id, distancia_km, tiempo_est
 (1, 9, 1, 134.0, 180, 45.5, 65, NOW(), 'En Curso'),     -- Ruta Bogotá - Girardot para Enrique Justo
 (2, 3, 3, 421.0, 360, 120.8, 70, NOW(), 'En Curso'),    -- Ruta Medellín - Cali para María Gómez
 (5, 10, 5, 220.0, 240, 80.0, 60, NOW(), 'En Curso');    -- Ruta Cartagena - Santa Marta para Ana Sánchez
+

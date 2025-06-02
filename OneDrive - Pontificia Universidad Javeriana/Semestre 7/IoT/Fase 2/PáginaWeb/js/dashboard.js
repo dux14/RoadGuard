@@ -181,3 +181,4 @@ function createDriverCard(driver) {
     
     return card;
 } 
+
